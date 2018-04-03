@@ -7,12 +7,12 @@ It is full responsive complete blog project:
 - project is based on mySQL and PHP,
 - admin of blog can login and logout, 
 - admin can:
-  *see dashboard panel, where see all added post(title, date, author, category, banner, commments,
-  *edit and delete posts,
-  *add post (title, category, image(banner), text),
-  *manage categories(add and delete categories),
-  *manage other admins(add new admins and delete older),
-  *manage comments( approve un-approved comments, and dis-approve approved comments)
+  -see dashboard panel, where see all added post(title, date, author, category, banner, commments,
+  -edit and delete posts,
+  -add post (title, category, image(banner), text),
+  -manage categories(add and delete categories),
+  -manage other admins(add new admins and delete older),
+  -manage comments( approve un-approved comments, and dis-approve approved comments)
 
 - user can search infromation by special search form,
 - user can see full post page by clicking in Read more button,
