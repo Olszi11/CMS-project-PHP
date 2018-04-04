@@ -1,6 +1,6 @@
 # CMS-project-PHP
 
-You have to download this project and run it with a web server to see all of its functionalities.
+You have to download this project and run it with a web server to see all of its functionalities. Also you have to import database (phpcms.sql) to your phpmyadmin.
 
 It is full responsive complete blog project:
 
